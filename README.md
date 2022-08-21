@@ -8,5 +8,6 @@
 
 |날짜|HS|EJ|HA|
 |---|---|---|---|
-|22.8.21||||
+|22.8.21||[O](https://github.com/read-ing/Operating-System/blob/main/ej/01.%20%EC%84%9C%EB%A1%A0.md)||
+
 ---
