@@ -9,6 +9,6 @@
 | 22.8.21  | ⭕️ | [⭕️](https://github.com/read-ing/Operating-System/blob/main/ej/01.%20%EC%84%9C%EB%A1%A0.md)                                     | ⭕️ |
 | 22.8.28  | ⭕️ | [⭕️](https://github.com/read-ing/Operating-System/blob/main/ej/02.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EA%B5%AC%EC%A1%B0.md) | ⭕️ |
 | 22.10.02 | ⭕️ | ⭕️                                                                                                                              | ⭕️ |
-| 22.10.30 | ⭕️ | ⭕️                                                                                                                              |     |
+| 22.10.30 | ⭕️ | [⭕️](https://github.com/read-ing/Operating-System/blob/main/ej/04.%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)                            |     |
 
 ---
